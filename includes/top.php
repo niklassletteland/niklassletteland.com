@@ -1,6 +1,6 @@
 <?php
-	$home = '/SITES/niklassletteland.com/new/';
-	//$home = '/';
+	//$home = '/SITES/niklassletteland.com/new/';
+	$home = '/';
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
